@@ -1,3 +1,3 @@
-document.querySelector('a.link').addEventListener('click', () => {
+document.querySelector('a').addEventListener('click', () => {
   console.log('clicked')
 })
