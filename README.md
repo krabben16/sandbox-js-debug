@@ -1,3 +1,3 @@
-1. debuggerステートメント
-1. console.trace関数
-1. ChromeデブツールのEvent Listenersタブ
+1. JSのdebuggerステートメント
+1. JSのconsole.trace関数
+1. ChromeデベロッパーツールのEvent Listenersタブ
